@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm BipinBirrd. </h1>
 
 ```py
-┌──(bipinbirrd@kali)-[~]
+┌──(bipinbirrd@github)-[~]
 └─$ cat main.py
 
   class Bipin:
@@ -13,7 +13,7 @@
      self.job       = "Not available"
      self.art       = "Anime artist"
   
-┌──(bipinbirrd@kali)-[~]
+┌──(bipinbirrd@gittub)-[~]
 └─$ exit
 ```
 
