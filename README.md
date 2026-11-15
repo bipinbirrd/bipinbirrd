@@ -9,7 +9,7 @@
     def  __social__(self):
      self.github    = "https://github.com/bipinbirrd"
      self.discord   = "bipinbirrd"
-     self.team   = "The Heroes 2020"
+     self.team      = "The Heroes 2020"
      self.job       = "Not available"
      self.art       = "Anime artist"
   
