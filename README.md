@@ -1,5 +1,7 @@
 <h1 align="center">Hello there, I'm BipinBirrd. </h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Developer;Anime+Artist;Open-Source+Contributor;Code.+Create.+Repeat." alt="Typing SVG" />
+</p>
 ```py
 ┌──(bipinbirrd@github)-[~]
 └─$ cat main.py
