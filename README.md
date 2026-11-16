@@ -1,9 +1,10 @@
 <h1 align="center">Hello there, I'm BipinBirrd. </h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20C20E,100:0a0a0a&height=200&section=header&text=&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=58" width="100%" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Developer;Anime+Artist;Open-Source+Contributor;Code.+Create.+Repeat." alt="Typing SVG" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20C20E,100:0a0a0a&height=200&section=header&text=&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20C20E,100:0a0a0a&height=100&section=footer" width="100%" />
 
 ```py
 ┌──(bipinbirrd@github)-[~]
@@ -57,4 +58,4 @@
 <h2 align="center">Views</h3>
 <p align="center"><img src="https://count.getloli.com/get/@bipinbirrd?theme=rule34" /></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20C20E,100:0a0a0a&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20ff80,100:0a0a0a&height=100&section=footer" width="100%" />
