@@ -54,3 +54,5 @@
 
 <h2 align="center">Views</h3>
 <p align="center"><img src="https://count.getloli.com/get/@bipinbirrd?theme=rule34" /></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20C20E,100:0a0a0a&height=100&section=footer" width="100%" />
