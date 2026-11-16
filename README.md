@@ -4,6 +4,7 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20C20E,100:0a0a0a&height=200&section=header&text=BIPIN%20BIRRD&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=^^^&descAlignY=58" width="100%" />
+
 ```py
 ┌──(bipinbirrd@github)-[~]
 └─$ cat main.py
